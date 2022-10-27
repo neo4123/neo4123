@@ -1,14 +1,14 @@
 Hi 👋 My name is < Liam />
 ==========================
 
-I am a <H2> web developer and designer </H2>
+I am a < H2 > web developer</ H2 >
 --------------------------------------------
 
-Hello I have been learning web design / development and coding for a year and a half. my first coding language was Python which I used for a year. now I am learning html, css, J's and some other library's.
+Hello I have been learning web design / development and coding for a year and a half. my first coding language was Python which I used for a year. now I am learning html, css, javascript and some other library's.
 
-* 🧠  I'm learning html, css, Js and some Js library's.
+* 🧠  I'm learning html, css, Js, python and some Js library's.
 * 🤝  I'm open to collaborating on projects and ideas.
-* ⚡  I am not used to using GitHub, so I may not post a lot at first.
+* ⚡  I am not experienced with using GitHub, so I may not post a lot at first.
 
 <a href="https://www.github.com/neo4123" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/neo4123?logo=github&style=for-the-badge&color=a855f7&labelColor=22272e" /></a>
